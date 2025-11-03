@@ -1,0 +1,4 @@
+Login Issue: Reset your password using the “Forgot Password” option.
+Payment Failed: Try updating your card details or using a different method.
+API Error 401: Check if your API key is valid and has not expired.
+Subscription Management: You can upgrade or cancel your subscription from the settings page
