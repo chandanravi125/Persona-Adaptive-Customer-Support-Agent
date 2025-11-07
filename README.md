@@ -79,6 +79,6 @@ POST Request
 Response
 
 {
-    "persona": "General User",
+    "persona": "Frustrated User",
     "response": "Okay, I understand you're feeling frustrated. I'm really sorry to hear that you're having trouble. Can you tell me a little bit more about what's going on? Knowing the specific issue will help me guide you towards the right solution.\n\nIs it perhaps related to logging in, payment, an API error, or managing your subscription? Don't worry, we'll figure this out together! Just let me know what's frustrating you, and I'll do my best to help."
 }
